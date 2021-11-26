@@ -1,1 +1,1 @@
-# Getaway-photos
+# web-getaway-photos.github.io
